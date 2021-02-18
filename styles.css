@@ -1,0 +1,53 @@
+    body {
+    background-image:url(pvp.jpg);
+    background-size:cover;
+}
+
+h1 {
+    font-size: 3em;
+    font-family:cursive;
+}
+
+section {
+    width:90%;
+    background-color:rgba(200, 100, 100, 0, 5);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width:100px;
+    
+
+}
+
+li a{
+    display:block;
+    color: aqua;
+    padding: 8px 16px;
+    text-decoration: none;
+    background-color: black;
+}
+li a:hover{
+    background-color:white;
+    color:black;
+}
+.flexmenu {
+    width: 100%;
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+    padding-left: 0px;
+    color: white;
+}
+
+.flexmenuitem {
+    background-color:transparent;
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 5px;
+    width: 300px;
+}
