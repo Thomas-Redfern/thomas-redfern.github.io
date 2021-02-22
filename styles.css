@@ -1,12 +1,11 @@
     body {
     background-image:url(pvp.jpg);
     background-size:contain;
-    width:auto;
 }
 
 h1 {
     font-size: 3em;
-    font-family:cursive;
+    font-family:fantasy;
 }
 
 section {
