@@ -1,6 +1,7 @@
     body {
     background-image:url(pvp.jpg);
     background-size:contain;
+    width:auto;
 }
 
 h1 {
