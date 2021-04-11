@@ -1,4 +1,4 @@
-    body {
+body {
     background-image:url(pvp.jpg);
     background-size:cover;
 }
@@ -33,7 +33,7 @@ li a{
 }
 li a:hover{
     background-color: #F7F7F2;
-    color:#090C08;
+    color: white;
 }
 .flexmenu {
     width: 100%;
