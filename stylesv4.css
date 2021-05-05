@@ -58,3 +58,15 @@ section {
    height: 45px;
     
 }
+
+.rcorners1 {
+  border-radius: 25px;
+  background: #FF6BEB6C;
+  padding: 20px; 
+  width: 500px;
+  height: 150px;  
+  max-height: 500px;
+  float: right;
+ margin-top: 20px;
+  margin-right: 20px;
+}
