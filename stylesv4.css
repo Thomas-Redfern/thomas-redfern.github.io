@@ -67,6 +67,23 @@ section {
   height: 150px;  
   max-height: 500px;
   float: right;
- margin-top: 20px;
+ margin-top: 50px;
   margin-right: 20px;
+}
+
+#valorantimg{
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#rlimg{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#rlcsimg{
+   margin-top: 50px;
+    margin-left: 200px;
 }
